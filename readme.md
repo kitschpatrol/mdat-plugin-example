@@ -68,7 +68,7 @@ Assuming you have a `sketch.tldr` file in the root of your project, you can embe
 <!-- example -->
 ```
 
-Then run the `mdat` CLI command on your Markdown file to expand the rule and embed the diagram:
+Then run the `mdat` CLI command on your Markdown file to expand the rule:
 
 ```markdown
 <!-- example -->
