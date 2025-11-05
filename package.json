@@ -1,6 +1,6 @@
 {
 	"name": "mdat-plugin-example",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Mdat rule plugin example template.",
 	"keywords": [
 		"markdown",
