@@ -78,8 +78,6 @@ Hello from the [mdat](https://github.com/kitschpatrol/mdat) example plugin!
 <!-- /example -->
 ```
 
-_Any additional context, instructions, or examples go here._
-
 ## Maintainers
 
 [@kitschpatrol](https://github.com/kitschpatrol)
