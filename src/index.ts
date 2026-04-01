@@ -1,4 +1,4 @@
-import type { Rules } from 'mdat'
+import type { Config } from 'mdat'
 
 export default {
 	example: {
@@ -6,4 +6,4 @@ export default {
 			return 'Hello from the [mdat](https://github.com/kitschpatrol/mdat) example plugin!'
 		},
 	},
-} satisfies Rules
+} satisfies Config
