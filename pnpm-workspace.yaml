@@ -11,5 +11,5 @@ publicHoistPattern:
   - '*stylelint*'
 allowBuilds:
   esbuild: true
-  puppeteer: true
+  oxc-resolver: true
   unrs-resolver: true
