@@ -43,7 +43,7 @@
 		"test": "vitest run --no-file-parallelism"
 	},
 	"devDependencies": {
-		"@kitschpatrol/shared-config": "^8.12.1",
+		"@kitschpatrol/shared-config": "^8.13.1",
 		"@types/node": "~24.13.3",
 		"bumpp": "^12.3.0",
 		"mdat": "^3.6.2",
